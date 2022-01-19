@@ -1,7 +1,7 @@
 {
-  "name": "with-typeorm-and-postgres",
+  "name": "nest-mongo-tdd",
   "version": "0.0.1",
-  "description": "Nest.js crud with pagination and caching with typeorm and postgres",
+  "description": "Nest.js mongo tdd",
   "author": "Kayode Adechinan",
   "license": "MIT",
   "scripts": {
